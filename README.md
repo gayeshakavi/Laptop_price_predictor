@@ -14,4 +14,6 @@ Python 🐍
 
 Scikit-learn 🤖
 
-Pandas & NumPy 📊
+Pandas   📊
+
+NumPy 📊
