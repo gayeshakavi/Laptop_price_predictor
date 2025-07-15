@@ -11,6 +11,9 @@ Data preprocessing and feature engineering 📊
 🏗️ Technologies Used
 
 Python 🐍
+
 Scikit-learn 🤖
+
 Pandas   📊
+
 NumPy 📊
