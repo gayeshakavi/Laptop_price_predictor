@@ -13,4 +13,5 @@ Data preprocessing and feature engineering 📊
 Python 🐍
 Scikit-learn 🤖
 Pandas   📊
+NumPy 📊
 
