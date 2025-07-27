@@ -2,11 +2,15 @@
 
 This project predicts laptop prices using machine learning. 🚀
 
+
+
 📌 Features
 
 Predict laptop prices 🤖
 
 Data preprocessing and feature engineering 📊
+
+
 
 🏗️ Technologies Used
 
